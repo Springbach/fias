@@ -4,8 +4,6 @@
 
 ## Indices
 
-* [Default](#default)
-
   * [houses](#1-houses)
   * [territory](#2-territory)
   * [streets](#3-streets)
@@ -13,9 +11,6 @@
   * [cities](#5-cities)
 
 --------
-
-
-## Default
 
 
 ### 1. houses
